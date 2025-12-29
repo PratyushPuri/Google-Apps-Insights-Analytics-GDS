@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://static0.anpoimages.com/wordpress/wp-content/uploads/2022/06/what-is-google-play-hero.jpg" alt="drawing" width="500"/>
+<img src="google.avif" alt="drawing" width="500"/>
 
 </div>
 
@@ -40,6 +40,12 @@ Interactive Looker Studio dashboard analyzing 10.3K cleaned Google Play Store ap
   - Higher install segments correlate with better rating distributions, with Very High segment showing 35.75% Excellent ratings versus 5.08% for Low segment.
   - Free apps constitute 92.6% of the market, confirming freemium as the dominant business model requiring focus on in-app monetization strategies.
   - Rating quality has improved over time with newer apps (2016-2018) showing higher proportions of Good and Very Good ratings compared to earlier years.
+
+---
+
+![GDS](gds.png)
+
+---
 
 ## How to Use
 - Access the live dashboard:  
